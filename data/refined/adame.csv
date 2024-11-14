@@ -1,0 +1,184 @@
+"","study_id","site_id","core_id","Habitat_type","Year_collected","Latitude","Longitude","U_depth_m","L_depth_m","OC_perc","N_perc","BD_reported_g_cm3","DOI"
+"1","Adame_unpublished","Chapala",1,"Salt marsh",2018,"30.513344","-115.982706",0,0.15,10.26,0.92,0.29,NA
+"2","Adame_unpublished","Chapala",1,"Salt marsh",2018,"30.513344","-115.982706",0.15,0.3,6.27,0.52,0.49,NA
+"3","Adame_unpublished","Chapala",1,"Salt marsh",2018,"30.513344","-115.982706",0.3,0.5,2.75,0.27,0.82,NA
+"4","Adame_unpublished","Chapala",1,"Salt marsh",2018,"30.513344","-115.982706",0.5,1,2.56,0.24,0.87,NA
+"5","Adame_unpublished","Chapala",2,"Salt marsh",2018,"30.513344","-115.982706",0,0.15,8.69,0.78,0.35,NA
+"6","Adame_unpublished","Chapala",2,"Salt marsh",2018,"30.513344","-115.982706",0.15,0.3,7.53,0.66,0.5,NA
+"7","Adame_unpublished","Chapala",2,"Salt marsh",2018,"30.513344","-115.982706",0.3,0.5,2.82,0.3,0.82,NA
+"8","Adame_unpublished","Chapala",2,"Salt marsh",2018,"30.513344","-115.982706",0.5,1,2.25,0.22,1.02,NA
+"9","Adame_unpublished","Chapala",3,"Salt marsh",2018,"30.513344","-115.982706",0,0.15,8.48,0.8,0.36,NA
+"10","Adame_unpublished","Chapala",3,"Salt marsh",2018,"30.513344","-115.982706",0.15,0.3,6.22,0.56,0.42,NA
+"11","Adame_unpublished","Chapala",3,"Salt marsh",2018,"30.513344","-115.982706",0.3,0.5,3.04,0.33,0.6,NA
+"12","Adame_unpublished","Chapala",3,"Salt marsh",2018,"30.513344","-115.982706",0.5,1,4.79,0.43,0.7,NA
+"13","Adame_unpublished","Chapala",4,"Salt marsh",2018,"30.513344","-115.982706",0,0.15,11.95,1.03,0.26,NA
+"14","Adame_unpublished","Chapala",4,"Salt marsh",2018,"30.513344","-115.982706",0.15,0.3,9.38,0.81,0.25,NA
+"15","Adame_unpublished","Chapala",4,"Salt marsh",2018,"30.513344","-115.982706",0.3,0.5,6.49,0.71,0.67,NA
+"16","Adame_unpublished","Chapala",4,"Salt marsh",2018,"30.513344","-115.982706",0.5,1,0.66,0.08,1.34,NA
+"17","Adame_unpublished","Chapala",5,"Salt marsh",2018,"30.513344","-115.982706",0,0.15,15.33,1.27,0.23,NA
+"18","Adame_unpublished","Chapala",5,"Salt marsh",2018,"30.513344","-115.982706",0.15,0.3,4.84,0.55,0.53,NA
+"19","Adame_unpublished","Chapala",5,"Salt marsh",2018,"30.513344","-115.982706",0.3,0.5,13.99,1.47,0.61,NA
+"20","Adame_unpublished","Chapala",5,"Salt marsh",2018,"30.513344","-115.982706",0.5,1,3.94,0.37,0.79,NA
+"21","Adame_unpublished","Kenton",1,"Salt marsh",2018,"30.465747","-115.980806",0,0.15,6.43,0.75,0.52,NA
+"22","Adame_unpublished","Kenton",1,"Salt marsh",2018,"30.465747","-115.980806",0.15,0.3,3.09,0.37,0.64,NA
+"23","Adame_unpublished","Kenton",1,"Salt marsh",2018,"30.465747","-115.980806",0.3,0.5,3.86,0.36,0.96,NA
+"24","Adame_unpublished","Kenton",1,"Salt marsh",2018,"30.465747","-115.980806",0.5,1,0.47,0.06,1.27,NA
+"25","Adame_unpublished","Kenton",2,"Salt marsh",2018,"30.465747","-115.980806",0,0.15,3.82,0.5,0.52,NA
+"26","Adame_unpublished","Kenton",2,"Salt marsh",2018,"30.465747","-115.980806",0.15,0.3,2.41,0.3,0.88,NA
+"27","Adame_unpublished","Kenton",2,"Salt marsh",2018,"30.465747","-115.980806",0.3,0.5,2.48,0.3,1.12,NA
+"28","Adame_unpublished","Kenton",2,"Salt marsh",2018,"30.465747","-115.980806",0.5,1,0.7,0.09,1.32,NA
+"29","Adame_unpublished","Kenton",3,"Salt marsh",2018,"30.465747","-115.980806",0,0.15,6.96,0.75,0.35,NA
+"30","Adame_unpublished","Kenton",3,"Salt marsh",2018,"30.465747","-115.980806",0.15,0.3,3.38,0.39,0.57,NA
+"31","Adame_unpublished","Kenton",3,"Salt marsh",2018,"30.465747","-115.980806",0.3,0.5,2.51,0.27,1.02,NA
+"32","Adame_unpublished","Kenton",3,"Salt marsh",2018,"30.465747","-115.980806",0.5,1,0.58,0.08,1.53,NA
+"33","Adame_unpublished","Kenton",4,"Salt marsh",2018,"30.465747","-115.980806",0,0.15,3.92,0.48,0.5,NA
+"34","Adame_unpublished","Kenton",4,"Salt marsh",2018,"30.465747","-115.980806",0.15,0.3,3.02,0.37,0.7,NA
+"35","Adame_unpublished","Kenton",4,"Salt marsh",2018,"30.465747","-115.980806",0.3,0.5,0.84,0.1,1.29,NA
+"36","Adame_unpublished","Kenton",4,"Salt marsh",2018,"30.465747","-115.980806",0.5,1,0.15,0.02,1.94,NA
+"37","Adame_unpublished","Kenton",5,"Salt marsh",2018,"30.465747","-115.980806",0,0.15,3.56,0.42,0.79,NA
+"38","Adame_unpublished","Kenton",5,"Salt marsh",2018,"30.465747","-115.980806",0.15,0.3,2.24,0.27,0.87,NA
+"39","Adame_unpublished","Kenton",5,"Salt marsh",2018,"30.465747","-115.980806",0.3,0.5,2.13,0.24,1.12,NA
+"40","Adame_unpublished","Kenton",5,"Salt marsh",2018,"30.465747","-115.980806",0.5,1,0.22,0.03,2.32,NA
+"41","Adame_unpublished","Arco",1,"Salt marsh",2018,"30.457969","-116.025869",0,0.15,15.56,1.6,0.52,NA
+"42","Adame_unpublished","Arco",1,"Salt marsh",2018,"30.457969","-116.025869",0.15,0.3,10.9,1.2,0.64,NA
+"43","Adame_unpublished","Arco",1,"Salt marsh",2018,"30.457969","-116.025869",0.3,0.5,8.34,1.09,0.96,NA
+"44","Adame_unpublished","Arco",1,"Salt marsh",2018,"30.457969","-116.025869",0.5,1,2.6,0.3,1.27,NA
+"45","Adame_unpublished","Arco",2,"Salt marsh",2018,"30.457969","-116.025869",0,0.15,14.5,1.34,0.52,NA
+"46","Adame_unpublished","Arco",2,"Salt marsh",2018,"30.457969","-116.025869",0.15,0.3,4.67,0.54,0.88,NA
+"47","Adame_unpublished","Arco",2,"Salt marsh",2018,"30.457969","-116.025869",0.3,0.5,11.2,1.43,1.12,NA
+"48","Adame_unpublished","Arco",2,"Salt marsh",2018,"30.457969","-116.025869",0.5,1,7.48,0.85,1.32,NA
+"49","Adame_unpublished","Arco",3,"Salt marsh",2018,"30.457969","-116.025869",0,0.15,6.55,0.63,0.35,NA
+"50","Adame_unpublished","Arco",3,"Salt marsh",2018,"30.457969","-116.025869",0.15,0.3,3.67,0.42,0.57,NA
+"51","Adame_unpublished","Arco",3,"Salt marsh",2018,"30.457969","-116.025869",0.3,0.5,2.37,0.32,1.02,NA
+"52","Adame_unpublished","Arco",3,"Salt marsh",2018,"30.457969","-116.025869",0.5,1,1.12,0.12,1.53,NA
+"53","Adame_unpublished","Arco",4,"Salt marsh",2018,"30.457969","-116.025869",0,0.15,3.24,0.34,0.5,NA
+"54","Adame_unpublished","Arco",4,"Salt marsh",2018,"30.457969","-116.025869",0.15,0.3,2.6,0.3,0.7,NA
+"55","Adame_unpublished","Arco",4,"Salt marsh",2018,"30.457969","-116.025869",0.3,0.5,1.25,0.17,1.29,NA
+"56","Adame_unpublished","Arco",4,"Salt marsh",2018,"30.457969","-116.025869",0.5,1,0.82,0.1,1.94,NA
+"57","Adame_unpublished","Arco",5,"Salt marsh",2018,"30.457969","-116.025869",0,0.15,4.01,0.37,0.79,NA
+"58","Adame_unpublished","Arco",5,"Salt marsh",2018,"30.457969","-116.025869",0.15,0.3,1.68,0.2,0.87,NA
+"59","Adame_unpublished","Arco",5,"Salt marsh",2018,"30.457969","-116.025869",0.3,0.5,1.12,0.14,1.12,NA
+"60","Adame_unpublished","Arco",5,"Salt marsh",2018,"30.457969","-116.025869",0.5,1,1.34,0.16,2.32,NA
+"61","Adame et al. 2015","Paistalon",1,"Mangroves",2012,"15.17869587","-86.80539547",0,0.15,29.25,0.94,0.28,"https://bg.copernicus.org/articles/12/3805/2015/"
+"62","Adame et al. 2015","Paistalon",1,"Mangroves",2012,"15.17869587","-86.80539547",0.15,0.3,28.21,1.09,0.21,"https://bg.copernicus.org/articles/12/3805/2015/"
+"63","Adame et al. 2015","Paistalon",1,"Mangroves",2012,"15.17869587","-86.80539547",0.3,0.5,26.55,0.83,0.18,"https://bg.copernicus.org/articles/12/3805/2015/"
+"64","Adame et al. 2015","Paistalon",1,"Mangroves",2012,"15.17869587","-86.80539547",0.5,1.44,28.1,1.25,0.13,"https://bg.copernicus.org/articles/12/3805/2015/"
+"65","Adame et al. 2015","Paistalon",2,"Mangroves",2012,"15.17869587","-86.80539547",0,0.15,27.2,0.9,0.19,"https://bg.copernicus.org/articles/12/3805/2015/"
+"66","Adame et al. 2015","Paistalon",2,"Mangroves",2012,"15.17869587","-86.80539547",0.15,0.3,20.03,0.81,0.18,"https://bg.copernicus.org/articles/12/3805/2015/"
+"67","Adame et al. 2015","Paistalon",2,"Mangroves",2012,"15.17869587","-86.80539547",0.3,0.5,14.08,0.56,0.27,"https://bg.copernicus.org/articles/12/3805/2015/"
+"68","Adame et al. 2015","Paistalon",2,"Mangroves",2012,"15.17869587","-86.80539547",0.5,1.5,27.47,1.19,0.14,"https://bg.copernicus.org/articles/12/3805/2015/"
+"69","Adame et al. 2015","Paistalon",3,"Mangroves",2012,"15.17869587","-86.80539547",0,0.15,31.02,1.03,0.17,"https://bg.copernicus.org/articles/12/3805/2015/"
+"70","Adame et al. 2015","Paistalon",3,"Mangroves",2012,"15.17869587","-86.80539547",0.15,0.3,25.4,1.02,0.19,"https://bg.copernicus.org/articles/12/3805/2015/"
+"71","Adame et al. 2015","Paistalon",3,"Mangroves",2012,"15.17869587","-86.80539547",0.3,0.5,6.88,0.4,0.35,"https://bg.copernicus.org/articles/12/3805/2015/"
+"72","Adame et al. 2015","Paistalon",3,"Mangroves",2012,"15.17869587","-86.80539547",0.5,1.5,18.56,0.66,0.18,"https://bg.copernicus.org/articles/12/3805/2015/"
+"73","Adame et al. 2015","Paistalon",4,"Mangroves",2012,"15.17869587","-86.80539547",0,0.15,22.53,1.08,0.25,"https://bg.copernicus.org/articles/12/3805/2015/"
+"74","Adame et al. 2015","Paistalon",4,"Mangroves",2012,"15.17869587","-86.80539547",0.15,0.3,14.87,0.71,0.21,"https://bg.copernicus.org/articles/12/3805/2015/"
+"75","Adame et al. 2015","Paistalon",4,"Mangroves",2012,"15.17869587","-86.80539547",0.3,0.5,18,0.73,0.21,"https://bg.copernicus.org/articles/12/3805/2015/"
+"76","Adame et al. 2015","Paistalon",4,"Mangroves",2012,"15.17869587","-86.80539547",0.5,1.5,16.5,0.63,0.24,"https://bg.copernicus.org/articles/12/3805/2015/"
+"77","Adame et al. 2015","Paistalon",5,"Mangroves",2012,"15.17869587","-86.80539547",0,0.15,23.95,0.93,0.22,"https://bg.copernicus.org/articles/12/3805/2015/"
+"78","Adame et al. 2015","Paistalon",5,"Mangroves",2012,"15.17869587","-86.80539547",0.15,0.3,21.51,0.9,0.17,"https://bg.copernicus.org/articles/12/3805/2015/"
+"79","Adame et al. 2015","Paistalon",5,"Mangroves",2012,"15.17869587","-86.80539547",0.3,0.5,21.21,0.82,0.2,"https://bg.copernicus.org/articles/12/3805/2015/"
+"80","Adame et al. 2015","Paistalon",5,"Mangroves",2012,"15.17869587","-86.80539547",0.5,1.5,15.96,0.65,0.3,"https://bg.copernicus.org/articles/12/3805/2015/"
+"81","Adame et al. 2015","Paistalon",6,"Mangroves",2012,"15.17869587","-86.80539547",0,0.15,18.57,0.88,0.39,"https://bg.copernicus.org/articles/12/3805/2015/"
+"82","Adame et al. 2015","Paistalon",6,"Mangroves",2012,"15.17869587","-86.80539547",0.15,0.3,26.38,1.19,0.16,"https://bg.copernicus.org/articles/12/3805/2015/"
+"83","Adame et al. 2015","Paistalon",6,"Mangroves",2012,"15.17869587","-86.80539547",0.3,0.5,2.4,0.15,0.78,"https://bg.copernicus.org/articles/12/3805/2015/"
+"84","Adame et al. 2015","Paistalon",6,"Mangroves",2012,"15.17869587","-86.80539547",0.5,1.5,12.47,0.62,0.33,"https://bg.copernicus.org/articles/12/3805/2015/"
+"85","Adame et al. 2015","Esterillo",1,"Mangroves",2012,"15.1656","-86.8288",0,0.15,22.09,1,0.22,"https://bg.copernicus.org/articles/12/3805/2015/"
+"86","Adame et al. 2015","Esterillo",1,"Mangroves",2012,"15.1656","-86.8288",0.15,0.3,22.75,0.92,0.18,"https://bg.copernicus.org/articles/12/3805/2015/"
+"87","Adame et al. 2015","Esterillo",1,"Mangroves",2012,"15.1656","-86.8288",0.3,0.5,23.32,0.82,0.23,"https://bg.copernicus.org/articles/12/3805/2015/"
+"88","Adame et al. 2015","Esterillo",1,"Mangroves",2012,"15.1656","-86.8288",0.5,1.44,10.22,0.43,0.33,"https://bg.copernicus.org/articles/12/3805/2015/"
+"89","Adame et al. 2015","Esterillo",2,"Mangroves",2012,"15.1656","-86.8288",0,0.15,22.08,0.95,0.34,"https://bg.copernicus.org/articles/12/3805/2015/"
+"90","Adame et al. 2015","Esterillo",2,"Mangroves",2012,"15.1656","-86.8288",0.15,0.3,24.93,1.02,0.15,"https://bg.copernicus.org/articles/12/3805/2015/"
+"91","Adame et al. 2015","Esterillo",2,"Mangroves",2012,"15.1656","-86.8288",0.3,0.5,8.57,0.43,0.38,"https://bg.copernicus.org/articles/12/3805/2015/"
+"92","Adame et al. 2015","Esterillo",2,"Mangroves",2012,"15.1656","-86.8288",0.5,1.5,18.84,0.71,0.25,"https://bg.copernicus.org/articles/12/3805/2015/"
+"93","Adame et al. 2015","Esterillo",3,"Mangroves",2012,"15.1656","-86.8288",0,0.15,21.06,1.07,0.37,"https://bg.copernicus.org/articles/12/3805/2015/"
+"94","Adame et al. 2015","Esterillo",3,"Mangroves",2012,"15.1656","-86.8288",0.15,0.3,17.88,1.02,0.18,"https://bg.copernicus.org/articles/12/3805/2015/"
+"95","Adame et al. 2015","Esterillo",3,"Mangroves",2012,"15.1656","-86.8288",0.3,0.5,24.14,0.91,0.14,"https://bg.copernicus.org/articles/12/3805/2015/"
+"96","Adame et al. 2015","Esterillo",3,"Mangroves",2012,"15.1656","-86.8288",0.5,1.5,21.24,0.75,0.2,"https://bg.copernicus.org/articles/12/3805/2015/"
+"97","Adame et al. 2015","Esterillo",4,"Mangroves",2012,"15.1656","-86.8288",0,0.15,23.04,0.99,0.25,"https://bg.copernicus.org/articles/12/3805/2015/"
+"98","Adame et al. 2015","Esterillo",4,"Mangroves",2012,"15.1656","-86.8288",0.15,0.3,19.85,1.07,0.3,"https://bg.copernicus.org/articles/12/3805/2015/"
+"99","Adame et al. 2015","Esterillo",4,"Mangroves",2012,"15.1656","-86.8288",0.3,0.5,21.18,0.78,0.27,"https://bg.copernicus.org/articles/12/3805/2015/"
+"100","Adame et al. 2015","Esterillo",4,"Mangroves",2012,"15.1656","-86.8288",0.5,1.5,21.22,0.68,0.32,"https://bg.copernicus.org/articles/12/3805/2015/"
+"101","Adame et al. 2015","Esterillo",5,"Mangroves",2012,"15.1656","-86.8288",0,0.15,24.11,1.4,0.28,"https://bg.copernicus.org/articles/12/3805/2015/"
+"102","Adame et al. 2015","Esterillo",5,"Mangroves",2012,"15.1656","-86.8288",0.15,0.3,30.09,1.23,0.21,"https://bg.copernicus.org/articles/12/3805/2015/"
+"103","Adame et al. 2015","Esterillo",5,"Mangroves",2012,"15.1656","-86.8288",0.3,0.5,25.04,1.12,0.35,"https://bg.copernicus.org/articles/12/3805/2015/"
+"104","Adame et al. 2015","Esterillo",5,"Mangroves",2012,"15.1656","-86.8288",0.5,1.5,13.8,0.54,0.33,"https://bg.copernicus.org/articles/12/3805/2015/"
+"105","Adame et al. 2015","Esterillo",6,"Mangroves",2012,"15.1656","-86.8288",0,0.15,23.29,1.23,0.27,"https://bg.copernicus.org/articles/12/3805/2015/"
+"106","Adame et al. 2015","Esterillo",6,"Mangroves",2012,"15.1656","-86.8288",0.15,0.3,21.89,1.15,0.16,"https://bg.copernicus.org/articles/12/3805/2015/"
+"107","Adame et al. 2015","Esterillo",6,"Mangroves",2012,"15.1656","-86.8288",0.3,0.5,10.15,0.49,0.26,"https://bg.copernicus.org/articles/12/3805/2015/"
+"108","Adame et al. 2015","Esterillo",6,"Mangroves",2012,"15.1656","-86.8288",0.5,1.5,22.27,0.81,0.22,"https://bg.copernicus.org/articles/12/3805/2015/"
+"109","Adame et al. 2015","St Chila",1,"Mangroves",2012,"15.1800871","-86.8383125",0,0.15,25.42,1.21,0.17,"https://bg.copernicus.org/articles/12/3805/2015/"
+"110","Adame et al. 2015","St Chila",1,"Mangroves",2012,"15.1800871","-86.8383125",0.15,0.3,11.46,0.78,0.24,"https://bg.copernicus.org/articles/12/3805/2015/"
+"111","Adame et al. 2015","St Chila",1,"Mangroves",2012,"15.1800871","-86.8383125",0.3,0.5,9.14,0.44,0.42,"https://bg.copernicus.org/articles/12/3805/2015/"
+"112","Adame et al. 2015","St Chila",1,"Mangroves",2012,"15.1800871","-86.8383125",0.5,1.22,14.69,0.69,0.39,"https://bg.copernicus.org/articles/12/3805/2015/"
+"113","Adame et al. 2015","St Chila",2,"Mangroves",2012,"15.1800871","-86.8383125",0,0.15,23.9,1.11,0.21,"https://bg.copernicus.org/articles/12/3805/2015/"
+"114","Adame et al. 2015","St Chila",2,"Mangroves",2012,"15.1800871","-86.8383125",0.15,0.3,28.24,1.43,0.16,"https://bg.copernicus.org/articles/12/3805/2015/"
+"115","Adame et al. 2015","St Chila",2,"Mangroves",2012,"15.1800871","-86.8383125",0.3,0.5,2.19,0.11,0.76,"https://bg.copernicus.org/articles/12/3805/2015/"
+"116","Adame et al. 2015","St Chila",2,"Mangroves",2012,"15.1800871","-86.8383125",0.5,1,9.45,0.28,0.55,"https://bg.copernicus.org/articles/12/3805/2015/"
+"117","Adame et al. 2015","St Chila",2,"Mangroves",2012,"15.1800871","-86.8383125",1,1.28,9.61,0.56,0.57,"https://bg.copernicus.org/articles/12/3805/2015/"
+"118","Adame et al. 2015","St Chila",3,"Mangroves",2012,"15.1800871","-86.8383125",0,0.15,30.2,1.32,0.11,"https://bg.copernicus.org/articles/12/3805/2015/"
+"119","Adame et al. 2015","St Chila",3,"Mangroves",2012,"15.1800871","-86.8383125",0.15,0.3,9.41,0.69,0.31,"https://bg.copernicus.org/articles/12/3805/2015/"
+"120","Adame et al. 2015","St Chila",3,"Mangroves",2012,"15.1800871","-86.8383125",0.3,0.5,14.22,0.6,0.32,"https://bg.copernicus.org/articles/12/3805/2015/"
+"121","Adame et al. 2015","St Chila",3,"Mangroves",2012,"15.1800871","-86.8383125",0.5,1,15.24,0.41,0.42,"https://bg.copernicus.org/articles/12/3805/2015/"
+"122","Adame et al. 2015","St Chila",3,"Mangroves",2012,"15.1800871","-86.8383125",1,1.32,14.97,0.02,1.17,"https://bg.copernicus.org/articles/12/3805/2015/"
+"123","Adame et al. 2015","St Chila",4,"Mangroves",2012,"15.1800871","-86.8383125",0,0.15,29.46,1.51,0.21,"https://bg.copernicus.org/articles/12/3805/2015/"
+"124","Adame et al. 2015","St Chila",4,"Mangroves",2012,"15.1800871","-86.8383125",0.15,0.3,21,1.04,0.13,"https://bg.copernicus.org/articles/12/3805/2015/"
+"125","Adame et al. 2015","St Chila",4,"Mangroves",2012,"15.1800871","-86.8383125",0.3,0.5,13.44,0.45,0.48,"https://bg.copernicus.org/articles/12/3805/2015/"
+"126","Adame et al. 2015","St Chila",4,"Mangroves",2012,"15.1800871","-86.8383125",0.5,1.53,16.12,0.54,0.41,"https://bg.copernicus.org/articles/12/3805/2015/"
+"127","Adame et al. 2015","St Chila",5,"Mangroves",2012,"15.1800871","-86.8383125",0,0.15,32.05,1.43,0.11,"https://bg.copernicus.org/articles/12/3805/2015/"
+"128","Adame et al. 2015","St Chila",5,"Mangroves",2012,"15.1800871","-86.8383125",0.15,0.3,16.63,1.2,0.11,"https://bg.copernicus.org/articles/12/3805/2015/"
+"129","Adame et al. 2015","St Chila",5,"Mangroves",2012,"15.1800871","-86.8383125",0.3,0.5,17.96,0.59,0.33,"https://bg.copernicus.org/articles/12/3805/2015/"
+"130","Adame et al. 2015","St Chila",5,"Mangroves",2012,"15.1800871","-86.8383125",0.5,1,21.14,0.68,0.29,"https://bg.copernicus.org/articles/12/3805/2015/"
+"131","Adame et al. 2015","St Chila",5,"Mangroves",2012,"15.1800871","-86.8383125",1,1.61,19.46,0.51,0.3,"https://bg.copernicus.org/articles/12/3805/2015/"
+"132","Adame et al. 2015","St Chila",6,"Mangroves",2012,"15.1800871","-86.8383125",0,0.15,25.4,1.21,0.15,"https://bg.copernicus.org/articles/12/3805/2015/"
+"133","Adame et al. 2015","St Chila",6,"Mangroves",2012,"15.1800871","-86.8383125",0.15,0.3,22.47,1.35,0.17,"https://bg.copernicus.org/articles/12/3805/2015/"
+"134","Adame et al. 2015","St Chila",6,"Mangroves",2012,"15.1800871","-86.8383125",0.3,0.5,19.29,0.65,0.25,"https://bg.copernicus.org/articles/12/3805/2015/"
+"135","Adame et al. 2015","St Chila",6,"Mangroves",2012,"15.1800871","-86.8383125",0.5,1.63,10.03,0.32,0.33,"https://bg.copernicus.org/articles/12/3805/2015/"
+"136","Adame et al. 2015","Las Palmas",1,"Mangroves",2012,"15.1648","-86.8278",0,0.15,2.41,0.21,0.6,"https://bg.copernicus.org/articles/12/3805/2015/"
+"137","Adame et al. 2015","Las Palmas",1,"Mangroves",2012,"15.1648","-86.8278",0.15,0.3,0.97,0.05,1.13,"https://bg.copernicus.org/articles/12/3805/2015/"
+"138","Adame et al. 2015","Las Palmas",1,"Mangroves",2012,"15.1648","-86.8278",0.3,0.5,0.68,0.05,1.03,"https://bg.copernicus.org/articles/12/3805/2015/"
+"139","Adame et al. 2015","Las Palmas",1,"Mangroves",2012,"15.1648","-86.8278",0.5,1.1,0.74,0.05,1.15,"https://bg.copernicus.org/articles/12/3805/2015/"
+"140","Adame et al. 2015","Las Palmas",2,"Mangroves",2012,"15.1648","-86.8278",0,0.15,3.59,0.17,0.99,"https://bg.copernicus.org/articles/12/3805/2015/"
+"141","Adame et al. 2015","Las Palmas",2,"Mangroves",2012,"15.1648","-86.8278",0.15,0.3,0.71,0.05,1.23,"https://bg.copernicus.org/articles/12/3805/2015/"
+"142","Adame et al. 2015","Las Palmas",2,"Mangroves",2012,"15.1648","-86.8278",0.3,0.5,1.69,0.08,1.25,"https://bg.copernicus.org/articles/12/3805/2015/"
+"143","Adame et al. 2015","Las Palmas",2,"Mangroves",2012,"15.1648","-86.8278",0.5,1.02,0.26,0.01,1.6,"https://bg.copernicus.org/articles/12/3805/2015/"
+"144","Adame et al. 2015","Las Palmas",3,"Mangroves",2012,"15.1648","-86.8278",0,0.15,3.04,0.23,0.71,"https://bg.copernicus.org/articles/12/3805/2015/"
+"145","Adame et al. 2015","Las Palmas",3,"Mangroves",2012,"15.1648","-86.8278",0.15,0.3,1.13,0.08,1.13,"https://bg.copernicus.org/articles/12/3805/2015/"
+"146","Adame et al. 2015","Las Palmas",3,"Mangroves",2012,"15.1648","-86.8278",0.3,0.5,0.9,0.05,1.06,"https://bg.copernicus.org/articles/12/3805/2015/"
+"147","Adame et al. 2015","Las Palmas",3,"Mangroves",2012,"15.1648","-86.8278",0.5,1.15,0.26,0.01,1.26,"https://bg.copernicus.org/articles/12/3805/2015/"
+"148","Adame et al. 2015","Las Palmas",4,"Mangroves",2012,"15.1648","-86.8278",0,0.15,5.9,0.29,0.65,"https://bg.copernicus.org/articles/12/3805/2015/"
+"149","Adame et al. 2015","Las Palmas",4,"Mangroves",2012,"15.1648","-86.8278",0.15,0.3,1.04,0.08,1.06,"https://bg.copernicus.org/articles/12/3805/2015/"
+"150","Adame et al. 2015","Las Palmas",4,"Mangroves",2012,"15.1648","-86.8278",0.3,0.5,1.21,0.07,0.89,"https://bg.copernicus.org/articles/12/3805/2015/"
+"151","Adame et al. 2015","Las Palmas",4,"Mangroves",2012,"15.1648","-86.8278",0.5,1.21,0.42,0.03,0.99,"https://bg.copernicus.org/articles/12/3805/2015/"
+"152","Adame et al. 2015","Las Palmas",5,"Mangroves",2012,"15.1648","-86.8278",0,0.15,4.96,0.44,0.63,"https://bg.copernicus.org/articles/12/3805/2015/"
+"153","Adame et al. 2015","Las Palmas",5,"Mangroves",2012,"15.1648","-86.8278",0.15,0.3,1.48,0.09,1.01,"https://bg.copernicus.org/articles/12/3805/2015/"
+"154","Adame et al. 2015","Las Palmas",5,"Mangroves",2012,"15.1648","-86.8278",0.3,0.5,1.01,0.06,1.18,"https://bg.copernicus.org/articles/12/3805/2015/"
+"155","Adame et al. 2015","Las Palmas",5,"Mangroves",2012,"15.1648","-86.8278",0.5,1.06,1.72,0.05,1.6,"https://bg.copernicus.org/articles/12/3805/2015/"
+"156","Adame et al. 2015","Las Palmas",6,"Mangroves",2012,"15.1648","-86.8278",0,0.15,9.38,0.62,0.33,"https://bg.copernicus.org/articles/12/3805/2015/"
+"157","Adame et al. 2015","Las Palmas",6,"Mangroves",2012,"15.1648","-86.8278",0.15,0.3,3.6,0.22,0.63,"https://bg.copernicus.org/articles/12/3805/2015/"
+"158","Adame et al. 2015","Las Palmas",6,"Mangroves",2012,"15.1648","-86.8278",0.3,0.5,1.75,0.09,1.35,"https://bg.copernicus.org/articles/12/3805/2015/"
+"159","Adame et al. 2015","Las Palmas",6,"Mangroves",2012,"15.1648","-86.8278",0.5,1.37,2.08,0.09,1.24,"https://bg.copernicus.org/articles/12/3805/2015/"
+"160","Adame et al. 2015","Tular",1,"Hyposaline marsh",2012,"15.0321","-92.7081",0,0.15,0.78,0.14,0.77,"https://bg.copernicus.org/articles/12/3805/2015/"
+"161","Adame et al. 2015","Tular",1,"Hyposaline marsh",2012,"15.0321","-92.7081",0.15,0.3,2.77,0.3,0.6,"https://bg.copernicus.org/articles/12/3805/2015/"
+"162","Adame et al. 2015","Tular",1,"Hyposaline marsh",2012,"15.0321","-92.7081",0.3,0.5,12.54,0.52,0.54,"https://bg.copernicus.org/articles/12/3805/2015/"
+"163","Adame et al. 2015","Tular",1,"Hyposaline marsh",2012,"15.0321","-92.7081",0.5,1,1.73,0.15,0.8,"https://bg.copernicus.org/articles/12/3805/2015/"
+"164","Adame et al. 2015","Tular",2,"Hyposaline marsh",2012,"15.0321","-92.7081",0,0.15,9.17,0.69,0.3,"https://bg.copernicus.org/articles/12/3805/2015/"
+"165","Adame et al. 2015","Tular",2,"Hyposaline marsh",2012,"15.0321","-92.7081",0.15,0.3,12.4,0.73,0.3,"https://bg.copernicus.org/articles/12/3805/2015/"
+"166","Adame et al. 2015","Tular",2,"Hyposaline marsh",2012,"15.0321","-92.7081",0.3,0.5,27.68,1.4,0.2,"https://bg.copernicus.org/articles/12/3805/2015/"
+"167","Adame et al. 2015","Tular",2,"Hyposaline marsh",2012,"15.0321","-92.7081",0.5,1,4.46,0.29,0.54,"https://bg.copernicus.org/articles/12/3805/2015/"
+"168","Adame et al. 2015","Tular",3,"Hyposaline marsh",2012,"15.0321","-92.7081",0,0.15,14.56,1.1,0.1,"https://bg.copernicus.org/articles/12/3805/2015/"
+"169","Adame et al. 2015","Tular",3,"Hyposaline marsh",2012,"15.0321","-92.7081",0.15,0.3,2.3,0.24,0.6,"https://bg.copernicus.org/articles/12/3805/2015/"
+"170","Adame et al. 2015","Tular",3,"Hyposaline marsh",2012,"15.0321","-92.7081",0.3,0.5,4.75,0.28,0.62,"https://bg.copernicus.org/articles/12/3805/2015/"
+"171","Adame et al. 2015","Tular",3,"Hyposaline marsh",2012,"15.0321","-92.7081",0.5,1,3.17,0.18,0.7,"https://bg.copernicus.org/articles/12/3805/2015/"
+"172","Adame et al. 2015","Tular",4,"Hyposaline marsh",2012,"15.0321","-92.7081",0,0.15,22.3,1.51,0.14,"https://bg.copernicus.org/articles/12/3805/2015/"
+"173","Adame et al. 2015","Tular",4,"Hyposaline marsh",2012,"15.0321","-92.7081",0.15,0.3,1.66,0.24,0.61,"https://bg.copernicus.org/articles/12/3805/2015/"
+"174","Adame et al. 2015","Tular",4,"Hyposaline marsh",2012,"15.0321","-92.7081",0.3,0.5,5.02,0.28,0.7,"https://bg.copernicus.org/articles/12/3805/2015/"
+"175","Adame et al. 2015","Tular",4,"Hyposaline marsh",2012,"15.0321","-92.7081",0.5,1,6.17,0.36,0.4,"https://bg.copernicus.org/articles/12/3805/2015/"
+"176","Adame et al. 2015","Tular",5,"Hyposaline marsh",2012,"15.0321","-92.7081",0,0.15,27.77,2.17,0.12,"https://bg.copernicus.org/articles/12/3805/2015/"
+"177","Adame et al. 2015","Tular",5,"Hyposaline marsh",2012,"15.0321","-92.7081",0.15,0.3,7.27,0.6,0.33,"https://bg.copernicus.org/articles/12/3805/2015/"
+"178","Adame et al. 2015","Tular",5,"Hyposaline marsh",2012,"15.0321","-92.7081",0.3,0.5,15.98,0.76,0.59,"https://bg.copernicus.org/articles/12/3805/2015/"
+"179","Adame et al. 2015","Tular",5,"Hyposaline marsh",2012,"15.0321","-92.7081",0.5,1,6.34,0.31,0.61,"https://bg.copernicus.org/articles/12/3805/2015/"
+"180","Adame et al. 2015","Tular",6,"Hyposaline marsh",2012,"15.0321","-92.7081",0,0.15,12.78,0.99,0.32,"https://bg.copernicus.org/articles/12/3805/2015/"
+"181","Adame et al. 2015","Tular",6,"Hyposaline marsh",2012,"15.0321","-92.7081",0.15,0.3,4.35,0.41,0.63,"https://bg.copernicus.org/articles/12/3805/2015/"
+"182","Adame et al. 2015","Tular",6,"Hyposaline marsh",2012,"15.0321","-92.7081",0.3,0.5,11.5,0.69,0.52,"https://bg.copernicus.org/articles/12/3805/2015/"
+"183","Adame et al. 2015","Tular",6,"Hyposaline marsh",2012,"15.0321","-92.7081",0.5,1,2.29,0.19,0.49,"https://bg.copernicus.org/articles/12/3805/2015/"
