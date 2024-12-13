@@ -1,0 +1,451 @@
+"alpha.3","Region","habitat","value"
+"ABW","N&C America","nar_marsh",0
+"ABW","N&C America","nar_mangrove",0.005610098
+"ABW","N&C America","nar_total",0.00561
+"AGO","Africa","nar_marsh",0
+"AGO","Africa","nar_mangrove",1.536231884
+"AGO","Africa","nar_total",1.536232
+"AIA","N&C America","nar_marsh",0
+"AIA","N&C America","nar_mangrove",0.000467508
+"AIA","N&C America","nar_total",0.000468
+"ALA","Europe","nar_marsh",0.017403
+"ALA","Europe","nar_mangrove",0
+"ALA","Europe","nar_total",0.017403
+"ALB","Europe","nar_marsh",1
+"ALB","Europe","nar_mangrove",0
+"ALB","Europe","nar_total",1
+"ARE","Asia","nar_marsh",0.066265
+"ARE","Asia","nar_mangrove",0.114071996
+"ARE","Asia","nar_total",0.180337
+"ARG","South America","nar_marsh",25.588353
+"ARG","South America","nar_mangrove",0
+"ARG","South America","nar_total",25.588353
+"ASM","Oceania","nar_marsh",0
+"ASM","Oceania","nar_mangrove",0
+"ASM","Oceania","nar_total",0
+"ATG","N&C America","nar_marsh",0
+"ATG","N&C America","nar_mangrove",0.054230949
+"ATG","N&C America","nar_total",0.054231
+"AUS","Oceania","nar_marsh",275.14324
+"AUS","Oceania","nar_mangrove",128.657784
+"AUS","Oceania","nar_total",403.801024
+"BEL","Europe","nar_marsh",0.080991
+"BEL","Europe","nar_mangrove",0
+"BEL","Europe","nar_total",0.080991
+"BEN","Africa","nar_marsh",0
+"BEN","Africa","nar_mangrove",0.417952314
+"BEN","Africa","nar_total",0.417952
+"BES","N&C America","nar_marsh",0
+"BES","N&C America","nar_mangrove",0.014025245
+"BES","N&C America","nar_total",0.014025
+"BGD","Asia","nar_marsh",0
+"BGD","Asia","nar_mangrove",11.75081814
+"BGD","Asia","nar_total",11.750818
+"BGR","Europe","nar_marsh",0.006693
+"BGR","Europe","nar_mangrove",0
+"BGR","Europe","nar_total",0.006693
+"BHR","Asia","nar_marsh",0
+"BHR","Asia","nar_mangrove",0.000935016
+"BHR","Asia","nar_total",0.000935
+"BHS","N&C America","nar_marsh",0
+"BHS","N&C America","nar_mangrove",4.681626928
+"BHS","N&C America","nar_total",4.681627
+"BLM","N&C America","nar_marsh",0
+"BLM","N&C America","nar_mangrove",0
+"BLM","N&C America","nar_total",0
+"BLZ","N&C America","nar_marsh",0
+"BLZ","N&C America","nar_mangrove",2.852734923
+"BLZ","N&C America","nar_total",2.852735
+"BMU","N&C America","nar_marsh",0
+"BMU","N&C America","nar_mangrove",0.000935016
+"BMU","N&C America","nar_total",0.000935
+"BRA","South America","nar_marsh",20.016064
+"BRA","South America","nar_mangrove",138.6489014
+"BRA","South America","nar_total",158.664966
+"BRB","N&C America","nar_marsh",0
+"BRB","N&C America","nar_mangrove",0.002337541
+"BRB","N&C America","nar_total",0.002338
+"BRN","Asia","nar_marsh",0
+"BRN","Asia","nar_mangrove",3.04114072
+"BRN","Asia","nar_total",3.041141
+"CAN","N&C America","nar_marsh",20.828648
+"CAN","N&C America","nar_mangrove",0
+"CAN","N&C America","nar_total",20.828648
+"CHL","South America","nar_marsh",0.198795
+"CHL","South America","nar_mangrove",0
+"CHL","South America","nar_total",0.198795
+"CHN","Asia","nar_marsh",79.657965
+"CHN","Asia","nar_mangrove",2.225806452
+"CHN","Asia","nar_total",81.883772
+"CIV","Africa","nar_marsh",0
+"CIV","Africa","nar_mangrove",0.551659654
+"CIV","Africa","nar_total",0.55166
+"CMR","Africa","nar_marsh",0
+"CMR","Africa","nar_mangrove",9.898083216
+"CMR","Africa","nar_total",9.898083
+"COD","Africa","nar_marsh",0
+"COD","Africa","nar_mangrove",1.11313698
+"COD","Africa","nar_total",1.113137
+"COL","South America","nar_marsh",0
+"COL","South America","nar_mangrove",29.40065451
+"COL","South America","nar_total",29.400655
+"COM","Africa","nar_marsh",0
+"COM","Africa","nar_mangrove",0.009817672
+"COM","Africa","nar_total",0.009818
+"CRI","N&C America","nar_marsh",0
+"CRI","N&C America","nar_mangrove",4.171575503
+"CRI","N&C America","nar_total",4.171576
+"CUB","N&C America","nar_marsh",0
+"CUB","N&C America","nar_mangrove",33.10051426
+"CUB","N&C America","nar_total",33.100514
+"CUW","N&C America","nar_marsh",0
+"CUW","N&C America","nar_mangrove",0.004675082
+"CUW","N&C America","nar_total",0.004675
+"CYM","N&C America","nar_marsh",0
+"CYM","N&C America","nar_mangrove",0.875642824
+"CYM","N&C America","nar_total",0.875643
+"CYP","Asia","nar_marsh",0.012718
+"CYP","Asia","nar_mangrove",0
+"CYP","Asia","nar_total",0.012718
+"DEU","Europe","nar_marsh",4.52008
+"DEU","Europe","nar_mangrove",0
+"DEU","Europe","nar_total",4.52008
+"DJI","Africa","nar_marsh",0
+"DJI","Africa","nar_mangrove",0.00514259
+"DJI","Africa","nar_total",0.005143
+"DNK","Europe","nar_marsh",6.19411
+"DNK","Europe","nar_mangrove",0
+"DNK","Europe","nar_total",6.19411
+"DOM","N&C America","nar_marsh",0
+"DOM","N&C America","nar_mangrove",1.055165965
+"DOM","N&C America","nar_total",1.055166
+"ECU","South America","nar_marsh",0.199465
+"ECU","South America","nar_mangrove",20.66947172
+"ECU","South America","nar_total",20.868936
+"EGY","Africa","nar_marsh",0
+"EGY","Africa","nar_mangrove",0
+"EGY","Africa","nar_total",0
+"ERI","Africa","nar_marsh",0
+"ERI","Africa","nar_mangrove",0.044413277
+"ERI","Africa","nar_total",0.044413
+"ESP","Europe","nar_marsh",7.874163
+"ESP","Europe","nar_mangrove",0
+"ESP","Europe","nar_total",7.874163
+"EST","Europe","nar_marsh",0.083668
+"EST","Europe","nar_mangrove",0
+"EST","Europe","nar_total",0.083668
+"FIN","Europe","nar_marsh",2.830656
+"FIN","Europe","nar_mangrove",0
+"FIN","Europe","nar_total",2.830656
+"FJI","Oceania","nar_marsh",0
+"FJI","Oceania","nar_mangrove",2.923796166
+"FJI","Oceania","nar_total",2.923796
+"FRA","Europe","nar_marsh",8.098394
+"FRA","Europe","nar_mangrove",0
+"FRA","Europe","nar_total",8.098394
+"FSM","Oceania","nar_marsh",0
+"FSM","Oceania","nar_mangrove",1.136512389
+"FSM","Oceania","nar_total",1.136512
+"GAB","Africa","nar_marsh",3.386212
+"GAB","Africa","nar_mangrove",7.798971482
+"GAB","Africa","nar_total",11.185183
+"GBR","Europe","nar_marsh",4.919679
+"GBR","Europe","nar_mangrove",0
+"GBR","Europe","nar_total",4.919679
+"GHA","Africa","nar_marsh",0
+"GHA","Africa","nar_mangrove",1.152875175
+"GHA","Africa","nar_total",1.152875
+"GIN","Africa","nar_marsh",0
+"GIN","Africa","nar_mangrove",30.46330061
+"GIN","Africa","nar_total",30.463301
+"GLP","N&C America","nar_marsh",0
+"GLP","N&C America","nar_mangrove",0.176250584
+"GLP","N&C America","nar_total",0.176251
+"GMB","Africa","nar_marsh",0
+"GMB","Africa","nar_mangrove",9.109396914
+"GMB","Africa","nar_total",9.109397
+"GNB","Africa","nar_marsh",0
+"GNB","Africa","nar_mangrove",34.04534829
+"GNB","Africa","nar_total",34.045348
+"GNQ","Africa","nar_marsh",0
+"GNQ","Africa","nar_mangrove",1.139784946
+"GNQ","Africa","nar_total",1.139785
+"GRD","N&C America","nar_marsh",0
+"GRD","N&C America","nar_mangrove",0.014960262
+"GRD","N&C America","nar_total",0.01496
+"GTM","N&C America","nar_marsh",0
+"GTM","N&C America","nar_mangrove",1.945769051
+"GTM","N&C America","nar_total",1.945769
+"GUF","South America","nar_marsh",0
+"GUF","South America","nar_mangrove",11.81252922
+"GUF","South America","nar_total",11.812529
+"GUM","Oceania","nar_marsh",0.001339
+"GUM","Oceania","nar_mangrove",0.004207574
+"GUM","Oceania","nar_total",0.005546
+"GUY","South America","nar_marsh",0
+"GUY","South America","nar_mangrove",2.745208041
+"GUY","South America","nar_total",2.745208
+"HKG","Asia","nar_marsh",0
+"HKG","Asia","nar_mangrove",0.170172978
+"HKG","Asia","nar_total",0.170173
+"HND","N&C America","nar_marsh",0
+"HND","N&C America","nar_mangrove",5.479195886
+"HND","N&C America","nar_total",5.479196
+"HRV","Europe","nar_marsh",0.115127
+"HRV","Europe","nar_mangrove",0
+"HRV","Europe","nar_total",0.115127
+"HTI","N&C America","nar_marsh",0
+"HTI","N&C America","nar_mangrove",0.857410005
+"HTI","N&C America","nar_total",0.85741
+"IDN","Asia","nar_marsh",0
+"IDN","Asia","nar_mangrove",687.686302
+"IDN","Asia","nar_total",687.686302
+"IND","Asia","nar_marsh",0
+"IND","Asia","nar_mangrove",22.8457223
+"IND","Asia","nar_total",22.845722
+"IRL","Europe","nar_marsh",0.850067
+"IRL","Europe","nar_mangrove",0
+"IRL","Europe","nar_total",0.850067
+"IRN","Asia","nar_marsh",0.023427
+"IRN","Asia","nar_mangrove",0.095371669
+"IRN","Asia","nar_total",0.118799
+"ISL","Europe","nar_marsh",0.2249
+"ISL","Europe","nar_mangrove",0
+"ISL","Europe","nar_total",0.2249
+"ITA","Europe","nar_marsh",8.894913
+"ITA","Europe","nar_mangrove",0
+"ITA","Europe","nar_total",8.894913
+"JAM","N&C America","nar_marsh",0
+"JAM","N&C America","nar_mangrove",0.575502571
+"JAM","N&C America","nar_total",0.575503
+"JPN","Asia","nar_marsh",0
+"JPN","Asia","nar_mangrove",0.086956522
+"JPN","Asia","nar_total",0.086957
+"KEN","Africa","nar_marsh",0
+"KEN","Africa","nar_mangrove",0.541841982
+"KEN","Africa","nar_total",0.541842
+"KHM","Asia","nar_marsh",0
+"KHM","Asia","nar_mangrove",6.923796166
+"KHM","Asia","nar_total",6.923796
+"KIR","Oceania","nar_marsh",0
+"KIR","Oceania","nar_mangrove",0.000935016
+"KIR","Oceania","nar_total",0.000935
+"KNA","N&C America","nar_marsh",0
+"KNA","N&C America","nar_mangrove",0.003272557
+"KNA","N&C America","nar_total",0.003273
+"LBR","Africa","nar_marsh",0
+"LBR","Africa","nar_mangrove",1.301075269
+"LBR","Africa","nar_total",1.301075
+"LCA","N&C America","nar_marsh",0
+"LCA","N&C America","nar_mangrove",0.009817672
+"LCA","N&C America","nar_total",0.009818
+"LKA","Asia","nar_marsh",0
+"LKA","Asia","nar_mangrove",2.448807854
+"LKA","Asia","nar_total",2.448808
+"LVA","Europe","nar_marsh",0.015395
+"LVA","Europe","nar_mangrove",0
+"LVA","Europe","nar_total",0.015395
+"MAC","Asia","nar_marsh",0
+"MAC","Asia","nar_mangrove",0.000935016
+"MAC","Asia","nar_total",0.000935
+"MAF","N&C America","nar_marsh",0
+"MAF","N&C America","nar_mangrove",0.000935016
+"MAF","N&C America","nar_total",0.000935
+"MAR","Africa","nar_marsh",0
+"MAR","Africa","nar_mangrove",0.06171108
+"MAR","Africa","nar_total",0.061711
+"MDG","Africa","nar_marsh",0.931058
+"MDG","Africa","nar_mangrove",26.04207574
+"MDG","Africa","nar_total",26.973133
+"MDV","Asia","nar_marsh",0
+"MDV","Asia","nar_mangrove",0.009350164
+"MDV","Asia","nar_total",0.00935
+"MEX","N&C America","nar_marsh",45.718876
+"MEX","N&C America","nar_mangrove",40.87938289
+"MEX","N&C America","nar_total",86.598258
+"MHL","Oceania","nar_marsh",0
+"MHL","Oceania","nar_mangrove",0
+"MHL","Oceania","nar_total",0
+"MMR","Asia","nar_marsh",0
+"MMR","Asia","nar_mangrove",44.82141187
+"MMR","Asia","nar_total",44.821412
+"MNE","Europe","nar_marsh",0.022758
+"MNE","Europe","nar_mangrove",0
+"MNE","Europe","nar_total",0.022758
+"MNP","Oceania","nar_marsh",0
+"MNP","Oceania","nar_mangrove",0.003272557
+"MNP","Oceania","nar_total",0.003273
+"MOZ","Africa","nar_marsh",0
+"MOZ","Africa","nar_mangrove",4.024777934
+"MOZ","Africa","nar_total",4.024778
+"MRT","Africa","nar_marsh",0
+"MRT","Africa","nar_mangrove",0.017765311
+"MRT","Africa","nar_total",0.017765
+"MTQ","N&C America","nar_marsh",0
+"MTQ","N&C America","nar_mangrove",0.076671342
+"MTQ","N&C America","nar_total",0.076671
+"MYS","Asia","nar_marsh",0
+"MYS","Asia","nar_mangrove",151.8228144
+"MYS","Asia","nar_total",151.822814
+"MYT","Africa","nar_marsh",0
+"MYT","Africa","nar_mangrove",0.054698457
+"MYT","Africa","nar_total",0.054698
+"NCL","Oceania","nar_marsh",0
+"NCL","Oceania","nar_mangrove",1.731182796
+"NCL","Oceania","nar_total",1.731183
+"NGA","Africa","nar_marsh",0
+"NGA","Africa","nar_mangrove",62.17671809
+"NGA","Africa","nar_total",62.176718
+"NIC","N&C America","nar_marsh",0
+"NIC","N&C America","nar_mangrove",6.347826087
+"NIC","N&C America","nar_total",6.347826
+"NLD","Europe","nar_marsh",3.666667
+"NLD","Europe","nar_mangrove",0
+"NLD","Europe","nar_total",3.666667
+"NRU","Oceania","nar_marsh",0
+"NRU","Oceania","nar_mangrove",0
+"NRU","Oceania","nar_total",0
+"NZL","Oceania","nar_marsh",1.036814
+"NZL","Oceania","nar_mangrove",1.133239832
+"NZL","Oceania","nar_total",2.170054
+"OMN","Asia","nar_marsh",0
+"OMN","Asia","nar_mangrove",0.002337541
+"OMN","Asia","nar_total",0.002338
+"PAK","Asia","nar_marsh",0
+"PAK","Asia","nar_mangrove",4.724170173
+"PAK","Asia","nar_total",4.72417
+"PAN","N&C America","nar_marsh",0
+"PAN","N&C America","nar_mangrove",17.21318373
+"PAN","N&C America","nar_total",17.213184
+"PER","South America","nar_marsh",5.871486
+"PER","South America","nar_mangrove",0.554932211
+"PER","South America","nar_total",6.426418
+"PHL","Asia","nar_marsh",0
+"PHL","Asia","nar_mangrove",47.01449275
+"PHL","Asia","nar_total",47.014493
+"PLW","Oceania","nar_marsh",0
+"PLW","Oceania","nar_mangrove",0.820476858
+"PLW","Oceania","nar_total",0.820477
+"PNG","Oceania","nar_marsh",0
+"PNG","Oceania","nar_mangrove",91.60402057
+"PNG","Oceania","nar_total",91.604021
+"PRI","N&C America","nar_marsh",0.491968
+"PRI","N&C America","nar_mangrove",0.489948574
+"PRI","N&C America","nar_total",0.981916
+"PRT","Europe","nar_marsh",1.706827
+"PRT","Europe","nar_mangrove",0
+"PRT","Europe","nar_total",1.706827
+"PYF","Oceania","nar_marsh",0
+"PYF","Oceania","nar_mangrove",0
+"PYF","Oceania","nar_total",0
+"QAT","Asia","nar_marsh",0
+"QAT","Asia","nar_mangrove",0.003740065
+"QAT","Asia","nar_total",0.00374
+"ROU","Europe","nar_marsh",15.056225
+"ROU","Europe","nar_mangrove",0
+"ROU","Europe","nar_total",15.056225
+"RUS","Europe","nar_marsh",43.379518
+"RUS","Europe","nar_mangrove",0
+"RUS","Europe","nar_total",43.379518
+"SAU","Asia","nar_marsh",0
+"SAU","Asia","nar_mangrove",0.047685835
+"SAU","Asia","nar_total",0.047686
+"SDN","Africa","nar_marsh",0
+"SDN","Africa","nar_mangrove",0.001870033
+"SDN","Africa","nar_total",0.00187
+"SEN","Africa","nar_marsh",0
+"SEN","Africa","nar_mangrove",17.41467976
+"SEN","Africa","nar_total",17.41468
+"SGP","Asia","nar_marsh",0
+"SGP","Asia","nar_mangrove",0.07199626
+"SGP","Asia","nar_total",0.071996
+"SLB","Oceania","nar_marsh",0
+"SLB","Oceania","nar_mangrove",2.672744273
+"SLB","Oceania","nar_total",2.672744
+"SLE","Africa","nar_marsh",0
+"SLE","Africa","nar_mangrove",18.69518467
+"SLE","Africa","nar_total",18.695185
+"SLV","N&C America","nar_marsh",0
+"SLV","N&C America","nar_mangrove",1.721832632
+"SLV","N&C America","nar_total",1.721833
+"SOM","Africa","nar_marsh",0
+"SOM","Africa","nar_mangrove",0.027582983
+"SOM","Africa","nar_total",0.027583
+"SUR","South America","nar_marsh",0
+"SUR","South America","nar_mangrove",10.92052361
+"SUR","South America","nar_total",10.920524
+"SVN","Europe","nar_marsh",0.047523
+"SVN","Europe","nar_mangrove",0
+"SVN","Europe","nar_total",0.047523
+"SWE","Europe","nar_marsh",1.068942
+"SWE","Europe","nar_mangrove",0
+"SWE","Europe","nar_total",1.068942
+"SYC","Africa","nar_marsh",0
+"SYC","Africa","nar_mangrove",0.116409537
+"SYC","Africa","nar_total",0.11641
+"TCA","N&C America","nar_marsh",0
+"TCA","N&C America","nar_mangrove",1.004675082
+"TCA","N&C America","nar_total",1.004675
+"TGO","Africa","nar_marsh",0
+"TGO","Africa","nar_mangrove",0.039270687
+"TGO","Africa","nar_total",0.039271
+"THA","Asia","nar_marsh",0
+"THA","Asia","nar_mangrove",52.20897616
+"THA","Asia","nar_total",52.208976
+"TLS","Asia","nar_marsh",0
+"TLS","Asia","nar_mangrove",0.136044881
+"TLS","Asia","nar_total",0.136045
+"TON","Oceania","nar_marsh",0
+"TON","Oceania","nar_mangrove",0.043478261
+"TON","Oceania","nar_total",0.043478
+"TTO","N&C America","nar_marsh",0
+"TTO","N&C America","nar_mangrove",0.712949977
+"TTO","N&C America","nar_total",0.71295
+"TUR","Asia","nar_marsh",2.287149
+"TUR","Asia","nar_mangrove",0
+"TUR","Asia","nar_total",2.287149
+"TUV","Oceania","nar_marsh",0
+"TUV","Oceania","nar_mangrove",0
+"TUV","Oceania","nar_total",0
+"TWN","Asia","nar_marsh",1.080991
+"TWN","Asia","nar_mangrove",0.028050491
+"TWN","Asia","nar_total",1.109041
+"TZA","Africa","nar_marsh",0
+"TZA","Africa","nar_mangrove",1.352033661
+"TZA","Africa","nar_total",1.352034
+"URY","South America","nar_marsh",0.535475
+"URY","South America","nar_mangrove",0
+"URY","South America","nar_total",0.535475
+"USA","N&C America","nar_marsh",250.623159
+"USA","N&C America","nar_mangrove",17.14399252
+"USA","N&C America","nar_total",267.767152
+"VCT","N&C America","nar_marsh",0
+"VCT","N&C America","nar_mangrove",0.003272557
+"VCT","N&C America","nar_total",0.003273
+"VEN","South America","nar_marsh",0
+"VEN","South America","nar_mangrove",37.64095372
+"VEN","South America","nar_total",37.640954
+"VGB","N&C America","nar_marsh",0
+"VGB","N&C America","nar_mangrove",0.004675082
+"VGB","N&C America","nar_total",0.004675
+"VIR","N&C America","nar_marsh",0.01071
+"VIR","N&C America","nar_mangrove",0.010752688
+"VIR","N&C America","nar_total",0.021462
+"VNM","Asia","nar_marsh",0
+"VNM","Asia","nar_mangrove",25.42122487
+"VNM","Asia","nar_total",25.421225
+"VUT","Oceania","nar_marsh",0
+"VUT","Oceania","nar_mangrove",0.044413277
+"VUT","Oceania","nar_total",0.044413
+"WLF","Oceania","nar_marsh",0
+"WLF","Oceania","nar_mangrove",0.000935016
+"WLF","Oceania","nar_total",0.000935
+"WSM","Oceania","nar_marsh",0
+"WSM","Oceania","nar_mangrove",0.021037868
+"WSM","Oceania","nar_total",0.021038
+"YEM","Asia","nar_marsh",0
+"YEM","Asia","nar_mangrove",0.009817672
+"YEM","Asia","nar_total",0.009818
+"ZAF","Africa","nar_marsh",0.808568
+"ZAF","Africa","nar_mangrove",0.023842917
+"ZAF","Africa","nar_total",0.832411
