@@ -1,4 +1,10 @@
 # BlueNitrogen
+
+The compiled Blue N database is called “AllCombined.csv” in data>combined
+To generate most plots from the paper, use .r files in outputs>Plotscripts
+To generate Figure 4, use “scenarios10-10-24.r” in Scenarios folder
+To run statistical tests, use .r files in scripts>stats
+
 Description of each folder
 
 Folder "data" contains raw data, refined data and final collated data files. 
